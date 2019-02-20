@@ -1,5 +1,4 @@
-apparently either people arent computer savy or modders are too dumb to be modding a game harder to mod than skyrim before
-being able to copy and paste bytes let alone program vector graphics.
+apparently either people arent computer savy or modders are too dumb to be modding a game console with a printer's cpu.
 
 if you are using anything other than the debug rom thats why it isnt working.
 a clean rom isnt required for people implimenting these to their rom modification but is recommended
